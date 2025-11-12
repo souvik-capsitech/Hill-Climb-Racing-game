@@ -36,3 +36,5 @@ Information on contributing to the project is often included. This typically inv
 
 ## License
 The project is usually distributed under a specific license, such as the **MIT License**. The details can be found in the `LICENSE` file.
+# Development Branch Test
+This line was added to test the dev branch.
